@@ -48,7 +48,9 @@ This project explores **Wavelet Theory**—a powerful mathematical tool used for
 
 - Pure Mathematical Analysis
 - Signal Processing Theory
-- No Programming Tools (Theoretical Project)
+- used using LATEX for coding , & presentation for Beamer .
+- Processed biomedical signals (ECG/EEG) using wavelet transformation techniques to identify noise and extract meaningful features.
+- MAtlab for graphical representation.
 
 ---
 
